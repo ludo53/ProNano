@@ -72,3 +72,4 @@ Contributions to ProNano are welcome and appreciated! We value community input a
 # License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/ludo53/ProNano/blob/main/LICENSE) file for details.
+.
